@@ -1,9 +1,12 @@
-Download this repo
-dotnet build
+1) Download this repo
 
-go to bin/Debug/net8.0/toggleMouseHandiness.exe and copy 
-Paste to a directory of your choice.
+2) dotnet build
 
-???
+3) go to bin/Debug/net8.0/toggleMouseHandiness.exe and copy 
+4) Paste to a directory of your choice.
 
-Double click on exe
+5) Double click on exe
+
+6)  ???
+
+7)  profit
